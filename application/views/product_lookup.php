@@ -1,0 +1,11 @@
+<html>
+<head> 
+<title>Product Lookup</title>
+</head>
+<body>
+<form action="http://localhost/w1231339CI/index.php/products/find" method="POST">
+Product Type: <input type=text name='PRODUCT_TYPE'/>
+<input type=submit />
+</form>
+</body>
+</html>
